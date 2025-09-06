@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peniel24
-- 👀 I’m interested in blockchain development and software development.
-- 🌱 I’m currently learning html & Css, python and JavaScript. 
-- 💞️ I’m looking to collaborate on projects that will enable me to learn and discover new skills.
+- 👀 I’m interested in business development and Data Analytics.
+- 🌱 I’m currently learning Data analytics @techCrush
+- 💞️ I’m looking to collaborate on projects that will enable me to learn and become better.
 - 📫 How to reach me @achigilipeniel24@gmail.com
 
 <!---
