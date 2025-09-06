@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Peniel24
+- 👋 Hi, I’m Peniel-victory Silas
 - 👀 I’m interested in business development and Data Analytics.
 - 🌱 I’m currently learning Data analytics @techCrush
 - 💞️ I’m looking to collaborate on projects that will enable me to learn and become better.
+- 🧱 I'm looking forward to building "MOTRAKA"
 - 📫 How to reach me @achigilipeniel24@gmail.com
 
 <!---
