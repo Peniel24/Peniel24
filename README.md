@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peniel (you can call me "Pennie") 
-### 💡 I love turning Data into Solutions  
+### 💡 I love turning Data into Solutions & Decisions 
 📍 Abuja, Nigeria | 🌍 Open to Remote Opportunities
 
 ---
@@ -9,6 +9,16 @@
 I'm a data analyst with a passion for uncovering insights that drive real world impact. Whether it's optimizing sales in commerce or exploring trends in healthcare, I love turning messy data into meaningful stories. My toolkit includes Python, SQL, Excel, and Power BI — and I'm always eager to learn more.
 
 ---
+
+## Skills
+
+- **Proficiency with analytical tools**
+- **Google analytics 4, looker studio sql for behavioural and funnel analysis**
+- **Marketing platforms: working knowledge of ad platforms such asmeta, X, and good understannding of marketing attribution.**
+- **Technical literacy: Understanding of APIs, we-hooks and first-party data integrations between marketing and backend systems**
+- **Reporting and visualization: skilled at building KPI dashboard and cohort reports; ability to translate data into clear insights and  business impact**.
+  **Data and tagging: implementing and troubleshooting tracking pixels, event shemas and UTM structures across multiple channels**
+  **Python**
 
 ## 🛠️ What I Work With
 
