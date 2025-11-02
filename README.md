@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Peniel-Victory Silas  
+# 👋 Hi, I'm Peniel (you can call me "Pennie") 
 ### 💡 Turning Data into Solutions  
 📍 Abuja, Nigeria | 🌍 Open to Remote Opportunities
 
