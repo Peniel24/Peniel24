@@ -1,12 +1,80 @@
-- 👋 Hi, I’m Peniel-victory Silas
-- 👀 I’m interested in business development and Data Analytics.
-- 🌱 I’m currently learning Data analytics @techCrush
-- 💞️ I’m looking to collaborate on projects that will enable me to learn and become better.
-- 🧱 I'm looking forward to building "MOTRAKA"
-- 📫 How to reach me @achigilipeniel24@gmail.com
+# 👋 Hello, I'm Peniel-Victory Silas  
+### 💡 Turning Data into Solutions  
+📍 Abuja, Nigeria | 🌍 Open to Remote Opportunities
 
-<!---
-Peniel24/Peniel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
+---
+
+## 🧠 About Me
+
+I'm a data analyst with a passion for uncovering insights that drive real world impact. Whether it's optimizing sales in commerce or exploring trends in healthcare, I love turning messy data into meaningful stories. My toolkit includes Python, SQL, Excel, and Power BI — and I'm always eager to learn more.
+
+---
+
+## 🛠️ What I Work With
+
+| Tool        | Purpose                        |
+|-------------|--------------------------------|
+| Python      | Data cleaning & automation     |
+| SQL         | Querying & database management |
+| Excel       | Quick analysis & reporting     |
+| Power BI    | Interactive dashboards         |
+
+---
+
+## 📊 What I Do Best
+
+- 🔍 **Data Entry & Cleaning** – Making raw data usable  
+- 📈 **Statistical Analysis** – Finding patterns that matter  
+- 📊 **Data Visualization** – Telling stories with charts and dashboards
+
+---
+
+## 🌍 Industries I'm Excited About
+
+I'm looking to collaborate with teams in:
+
+- 🛒 Commercial & Retail  
+- 🛢️ Oil & Energy  
+- 🚗 Automotive  
+- 🪙 Cryptocurrency  
+- 🏥 Healthcare  
+- ⚽ Sports Analytics
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to:
+
+- 🧑‍🏫 Mentoring aspiring analysts  
+- 🎤 Speaking at data events  
+- 💻 Contributing to open-source projects
+  
+
+---
+
+## 🚀 Projects Coming Soon
+
+I’m currently working on some exciting projects — stay tuned!  
+Want to collaborate or brainstorm something together? Let’s talk!
+
+---
+
+## 🎉 Fun Facts
+
+- I enjoy learning about emerging tech trends  
+- I love connecting data to real-world decisions  
+- I believe every dataset has a story waiting to be told
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: _[Add your link here]_  
+- 🌐 Portfolio or Blog: _[Optional]_  
+- 📬 Email: achigilipeniel24@gmail.com  
+
+---
+
+### ✨ Thanks for stopping by!  
+Let’s turn data into solutions — together.
