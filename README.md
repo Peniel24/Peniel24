@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peniel (you can call me "Pennie") 
-### 💡 Turning Data into Solutions  
+### 💡 I love turning Data into Solutions  
 📍 Abuja, Nigeria | 🌍 Open to Remote Opportunities
 
 ---
