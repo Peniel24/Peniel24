@@ -17,8 +17,8 @@ I'm a data analyst with a passion for uncovering insights that drive real world 
 - **Marketing platforms: working knowledge of ad platforms such asmeta, X, and good understannding of marketing attribution.**
 - **Technical literacy: Understanding of APIs, we-hooks and first-party data integrations between marketing and backend systems**
 - **Reporting and visualization: skilled at building KPI dashboard and cohort reports; ability to translate data into clear insights and  business impact**.
-  **Data and tagging: implementing and troubleshooting tracking pixels, event shemas and UTM structures across multiple channels**
-  **Python**
+- **Data and tagging: implementing and troubleshooting tracking pixels, event shemas and UTM structures across multiple channels**
+- **Python**
 
 ## 🛠️ What I Work With
 
@@ -80,7 +80,7 @@ Want to collaborate or brainstorm something together? Let’s talk!
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: _[Add your link here]_  
+- 💼 LinkedIn: https://www.linkedin.com/in/peniel-victory-silas-022237179 
 - 🌐 Portfolio or Blog: _[Optional]_  
 - 📬 Email: achigilipeniel24@gmail.com  
 
@@ -88,3 +88,4 @@ Want to collaborate or brainstorm something together? Let’s talk!
 
 ### ✨ Thanks for stopping by!  
 Let’s turn data into solutions — together.
+CALL OR WHATSAPP ON: +2348158479737
