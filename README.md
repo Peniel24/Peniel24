@@ -10,16 +10,6 @@ I'm a data analyst with a passion for uncovering insights that drive real world 
 
 ---
 
-## Skills
-
-- **Proficiency with analytical tools**
-- **Google analytics 4, looker studio sql for behavioural and funnel analysis**
-- **Marketing platforms: working knowledge of ad platforms such asmeta, X, and good understannding of marketing attribution.**
-- **Technical literacy: Understanding of APIs, we-hooks and first-party data integrations between marketing and backend systems**
-- **Reporting and visualization: skilled at building KPI dashboard and cohort reports; ability to translate data into clear insights and  business impact**.
-- **Data and tagging: implementing and troubleshooting tracking pixels, event shemas and UTM structures across multiple channels**
-- **Python**
-
 ## 🛠️ What I Work With
 
 | Tool        | Purpose                        |
